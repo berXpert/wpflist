@@ -1,0 +1,14 @@
+﻿<WpfApplication1:MainWindowViewModel xmlns:WpfApplication1="clr-namespace:WpfApplication1" xmlns:System="clr-namespace:System;assembly=mscorlib">
+	<WpfApplication1:MainWindowViewModel.ListSelection>
+		<System:String>Aliquam cras duis class</System:String>
+		<System:String>Integer aenean</System:String>
+		<System:String>Vestibulum nam mauris nunc nullam</System:String>
+		<System:String>Maecenas amet curabitur sed</System:String>
+		<System:String>Quisque adipiscing aptent</System:String>
+		<System:String>Ante phasellus vivamus auctor congue</System:String>
+		<System:String>Praesent accumsan consequat arcu</System:String>
+		<System:String>Parturient diam</System:String>
+		<System:String>Eget curae donec vestibulum dis</System:String>
+		<System:String>Elit etiam convallis</System:String>
+	</WpfApplication1:MainWindowViewModel.ListSelection>
+</WpfApplication1:MainWindowViewModel>
